@@ -9,3 +9,5 @@ Assumpitions:
 A player will disconnect by typing "exit" into the number field or by using ctrl c
 Players must connect to the server within 3 minutes of each other or they will be timed out
 a move is checked to see if it is valid on the client side
+
+Application Screenshot: ![app screenshot](connect.png).
